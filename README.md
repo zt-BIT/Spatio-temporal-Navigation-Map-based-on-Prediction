@@ -19,7 +19,7 @@ In this work, we construct a framework of **LSTM(Long-short Term Memory)+MDN** t
 * **main.py**: main funtion. To run: python main.py --train_eval  
 * **models**: model OBJECT  
 * **utils**: dataloader.py    
-             util_MDN.py: calculate the pdf given Gaussian params  
-             get_tensor.py: fetch tensor from the graph  
+               util_MDN.py: calculate the pdf given Gaussian params  
+               get_tensor.py: fetch tensor from the graph  
 * **EXAMPLE_DATA**: example testing data  
 * **SAVED_MODEL**: trained LSTM_MDN model
