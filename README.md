@@ -30,8 +30,6 @@ In this work, we construct a framework of **LSTM (Long-short Term Memory)+MDN** 
 
 * Scenario1   
 
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1592052471129&di=66f21ac7b4e60e657e95b5fd6651d024&imgtype=0&src=http%3A%2F%2Fa1.att.hudong.com%2F62%2F02%2F01300542526392139955025309984.jpg)
-
 ![](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/scenario1.jpeg)
 
 * Scenario2   
@@ -46,13 +44,13 @@ In this work, we construct a framework of **LSTM (Long-short Term Memory)+MDN** 
 
 * lane keeping  
 
-** top view   
+ * top view   
 ![](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/top_view_keep.jpg)
 
-** cross-section of t=1.0s  
+ * cross-section of t=1.0s  
 ![](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t10)
 
-** cross-section of t=2.0s   
+ * cross-section of t=2.0s   
 ![](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t20)
 
 * lane changing  
