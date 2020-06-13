@@ -3,7 +3,7 @@ This code is for the work of 《Trajectory Prediction-based Local Spatio-tempora
 
 ## Introduction
 
-In this work, we construct a framework of **LSTM(Long-short Term Memory)+MDN** to predict the possible future trajectories of surrounding vehicles in 3s. Then, the prediction results are projected into the coordinate system whose origin is from the perspective of the ego vehicle, and a 3D spatio-temporal map is constructed. Through the spatio-temporal map, the dynamic obstacles around the ego vehicle are transformed into static obstacles extending along the time axis, thus the dynamic obstacle avoidance problem is tranlated into static obstacle avoidance problem, assisting the ego vehicle in decision-making and local path planning.
+In this work, we construct a framework of **LSTM (Long-short Term Memory)+MDN** to predict the possible future trajectories of surrounding vehicles in 3s. Then, the prediction results are projected into the coordinate system whose origin is from the perspective of the ego vehicle, and a 3D spatio-temporal map is constructed. Through the spatio-temporal map, the dynamic obstacles around the ego vehicle are transformed into static obstacles extending along the time axis, thus the dynamic obstacle avoidance problem is tranlated into static obstacle avoidance problem, assisting the ego vehicle in decision-making and local path planning.
 
 ## Prerequisites
 
@@ -25,3 +25,7 @@ In this work, we construct a framework of **LSTM(Long-short Term Memory)+MDN** t
   * get_tensor.py: fetch tensor from the graph  
 * **EXAMPLE_DATA**: example testing data  
 * **SAVED_MODEL**: trained LSTM_MDN model
+
+## Prediction Results
+
+<div align = left><img width="20" height = "20", scr=""/></div>
