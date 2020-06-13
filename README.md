@@ -47,7 +47,7 @@ In this work, we construct a framework of **LSTM (Long-short Term Memory)+MDN** 
  * 3D map  
  ![](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep.png)
  
- * top view & * cross-section of t=1.0s & * cross-section of t=2.0s  
+ * top view &  cross-section of t=1.0s &  cross-section of t=2.0s  
 
  <div align=center>
     <img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t10.png" width="300"/><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t20.png" width="300"/><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t20top_view_keep.png.png" width="300"/>
@@ -58,7 +58,7 @@ In this work, we construct a framework of **LSTM (Long-short Term Memory)+MDN** 
  * 3D map  
  ![](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_change.png)
  
- * top view & * cross-section of t=1.0s & * cross-section of t=2.0s  
+ * top view &   cross-section of t=1.0s &  cross-section of t=2.0s  
 
  <div align=center>
     <img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_change_t10.png" width="2300"/><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_change_t20.png" width="300"/><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/top_view_change.png" width="300"/>
