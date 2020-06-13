@@ -28,4 +28,8 @@ In this work, we construct a framework of **LSTM (Long-short Term Memory)+MDN** 
 
 ## Prediction Results
 
-![image](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/scenario1.jpg)
+![Scenario1](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/scenario1.jpeg)
+
+![Scenario2](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/scenario2.jpeg)
+
+![Scenario3](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/scenario3.jpeg)
