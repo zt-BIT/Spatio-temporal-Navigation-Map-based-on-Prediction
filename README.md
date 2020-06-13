@@ -51,6 +51,10 @@ In this work, we construct a framework of **LSTM (Long-short Term Memory)+MDN** 
 ![](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/top_view_keep.png)
 
  * cross-section of t=1.0s  
+ <div align=center>
+    <img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t10.png" width="200"/><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t20.png" width="200"/>
+</div>
+
 ![](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t10.png)
 
  * cross-section of t=2.0s   
