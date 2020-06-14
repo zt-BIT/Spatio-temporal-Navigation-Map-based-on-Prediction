@@ -49,10 +49,10 @@ In this work, we construct a framework of **LSTM (Long-short Term Memory)+MDN** 
  
  * top view &  cross-section of t=1.0s &  cross-section of t=2.0s  
 
- <div align=center><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t10.png" width="300"/></div>
+ <div align=center><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/top_view_keep.jpg" width="300"/></div>
   
  <div align=center>
-   <img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t20.png" width="300"/><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/top_view_keep.jpg" width="300"/>
+   <img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t10.png" width="300"/><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_keep_t20.png" width="300"/>
 </div>
 
 * lane changing  
@@ -61,10 +61,10 @@ In this work, we construct a framework of **LSTM (Long-short Term Memory)+MDN** 
  ![](https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_change.jpg)
  
  * top view &   cross-section of t=1.0s &  cross-section of t=2.0s  
- <div align=center><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_change_t10.jpg" width="300"/></div>
+ <div align=center><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/top_view_change.jpg" width="300"/></div>
  
  <div align=center>
- <img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_change_t20.jpg" width="300"/><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/top_view_change.jpg" width="300"/>
+ <img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_change_t10.jpg" width="300"/><img src="https://github.com/zt600158/Spatio-temporal-Navigation-Map-based-on-Prediction/blob/master/figs/lane_change_t20.jpg" width="300"/>
 </div>
 
 ## [Coming soon]Local Path Planning
