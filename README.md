@@ -22,7 +22,8 @@ In this work, we construct a framework of **LSTM (Long-short Term Memory)+MDN** 
 
   * dataloader.py    
   * util_MDN.py: calculate the pdf given Gaussian params  
-  * get_tensor.py: fetch tensor from the graph  
+  * get_tensor.py: fetch tensor from the graph    
+  * visualize.py: visualization
 * **example_data**: example testing data  
 * **saved_models**: trained LSTM_MDN model
 
