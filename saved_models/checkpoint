@@ -1,0 +1,4 @@
+model_checkpoint_path: "THE_PATH_OF_YOURS/best_model.ckpt-163"
+all_model_checkpoint_paths: "THE_PATH_OF_YOURS/best_model.ckpt-163"
+
+
