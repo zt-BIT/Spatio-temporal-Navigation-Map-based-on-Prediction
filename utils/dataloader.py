@@ -48,9 +48,6 @@ class DataLoad():
         self.labels = []  # create a list to store the preprocessed labels ,the labels should be in length of 30(3s)
         self.data = {}  # create a dict to store splitted data and labels
         self.N = 0  # total number of sequences in preprocessed data
-        self.iter_train = 0  # train iteration
-        self.epochs = 0  # epochs for looping
-        self.omit = 0  # omitted sequences number
         self.normal_dict = {}
         self.frameindex=[]
         self.vehicleindex=[]
