@@ -25,7 +25,6 @@ class Model():
         #bool type params
         self.use_attention = args.use_attention
         self.attn_input_feeding = args.attn_input_feeding
-
         self.use_MDN = args.use_mdn  # if use MDN mode
         self.use_beam_search = args.use_beam_search
         self.attn_input_feeding = args.attn_input_feeding
